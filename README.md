@@ -18,7 +18,7 @@ I'm currently working on getting my Msc in Data Science and Analytics engineerin
 
 _Check out my portfolio here_:
 
-[My Portfolio](https://peculiar-analytics.lovable.app/).
+[My Portfolio](https://pecstheanalyst.github.io/PecsTheAnalyst/).
 
 **Also Connect with me**
 
